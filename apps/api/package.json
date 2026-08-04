@@ -100,7 +100,7 @@
     "@types/nodemailer": "^8.0.1",
     "@types/oidc-provider": "^9.5.0",
     "@types/pdfkit": "^0.17.6",
-    "@types/pg": "^8.20.0",
+    "@types/pg": "^8.20.3",
     "@types/sanitize-html": "^2.16.1",
     "@types/semver": "^7.7.1",
     "@types/ssh2-sftp-client": "^9.0.6",
