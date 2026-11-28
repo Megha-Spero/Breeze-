@@ -471,13 +471,13 @@ Thank you to everyone who has contributed to Breeze.
 <a href="https://github.com/bgatestmg"><img src="https://avatars.githubusercontent.com/u/153768976?v=4&amp;s=128" width="64" height="64" alt="bgatestmg" title="bgatestmg (@bgatestmg)" /></a>
 <a href="https://github.com/cehaho"><img src="https://avatars.githubusercontent.com/u/56485277?v=4&amp;s=128" width="64" height="64" alt="cehaho" title="cehaho (@cehaho)" /></a>
 <a href="https://github.com/Jay-Starlux"><img src="https://avatars.githubusercontent.com/u/122799880?v=4&amp;s=128" width="64" height="64" alt="Jay-Starlux" title="Jay-Starlux (@Jay-Starlux)" /></a>
+<a href="https://github.com/MikeFTV"><img src="https://avatars.githubusercontent.com/u/120562221?v=4&amp;s=128" width="64" height="64" alt="MikeFTV" title="MikeFTV (@MikeFTV)" /></a>
 <a href="https://github.com/aayush-ashok"><img src="https://avatars.githubusercontent.com/u/54711854?v=4&amp;s=128" width="64" height="64" alt="aayush-ashok" title="aayush-ashok (@aayush-ashok)" /></a>
 <a href="https://github.com/CookieSource"><img src="https://avatars.githubusercontent.com/u/36531905?v=4&amp;s=128" width="64" height="64" alt="CookieSource" title="CookieSource (@CookieSource)" /></a>
 <a href="https://github.com/obsidiangroup"><img src="https://avatars.githubusercontent.com/u/54423468?v=4&amp;s=128" width="64" height="64" alt="obsidiangroup" title="obsidiangroup (@obsidiangroup)" /></a>
 <a href="https://github.com/LewisLosa"><img src="https://avatars.githubusercontent.com/u/95869100?v=4&amp;s=128" width="64" height="64" alt="LewisLosa" title="LewisLosa (@LewisLosa)" /></a>
 <a href="https://github.com/jay23606"><img src="https://avatars.githubusercontent.com/u/4602056?v=4&amp;s=128" width="64" height="64" alt="jay23606" title="jay23606 (@jay23606)" /></a>
 <a href="https://github.com/JayDawgZA"><img src="https://avatars.githubusercontent.com/u/278054780?v=4&amp;s=128" width="64" height="64" alt="JayDawgZA" title="JayDawgZA (@JayDawgZA)" /></a>
-<a href="https://github.com/MikeFTV"><img src="https://avatars.githubusercontent.com/u/120562221?v=4&amp;s=128" width="64" height="64" alt="MikeFTV" title="MikeFTV (@MikeFTV)" /></a>
 <a href="https://github.com/travroo321"><img src="https://avatars.githubusercontent.com/u/39356748?v=4&amp;s=128" width="64" height="64" alt="travroo321" title="travroo321 (@travroo321)" /></a>
 <!-- contributors:end -->
 
